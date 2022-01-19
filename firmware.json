@@ -3,6 +3,5 @@
     "version": 2,
     "host": "192.168.0.100",
     "port": 80,
-    "bin": "https://github.com/mattygsa/OTA-Trials/raw/main/firmware.bin"
-    "check_signature": false
+    "bin": "https://github.com/mattygsa/OTA-Trials/raw/main/firmware.bin"   
 }
