@@ -1,8 +1,7 @@
 {
     "type": "esp32-fota-http",
     "version": 2,
-    "host": "https://github.com/mattygsa/OTA-Trials",
+    "host": "https://github.com",
     "port": 443,
-    "bin": "https://github.com/mattygsa/OTA-Trials/raw/main/firmware.bin",
-    "check_signature": false
+    "bin": "https://github.com/mattygsa/OTA-Trials/raw/main/firmware.bin",    
 }
