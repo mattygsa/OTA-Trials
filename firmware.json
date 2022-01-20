@@ -3,5 +3,5 @@
     "version": 2,
     "host": "raw.githubusercontent.com",
     "port": 443,
-    "bin": "/mattygsa/OTA-Trials/raw/main/firmware.bin"    
+    "bin": "/tobozo/esp32FOTA/raw/master/examples/HTTPS/fota/fota_via_https_v2.bin"    
 }
